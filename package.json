@@ -1,0 +1,8 @@
+{
+  "name": "paytm-checksum-gen",
+  "version": "0.0.1",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "util": "^0.12.1"
+  }
+}
